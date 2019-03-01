@@ -1,6 +1,6 @@
 # TextToHexToBinaryinPython
 
-Simply run the code:
+Simply run the code with python 2.7:
 
     ./TextToHexToBinary.py
     
